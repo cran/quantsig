@@ -1,0 +1,2 @@
+importFrom("stats", "optim", "qnorm", "sd")
+export("quantsig")
